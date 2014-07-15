@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0045)http://www.workforceinfodb.org/5structure.cfm -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>ARC - Database Structure</title>
+<link href="./ARC - Database Structure_files/arc_style_sheet3.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+<!--
+body {
+	background-image:url(Graphics/pagebackgroundimageC.gif);
+	background-repeat:repeat;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+p {font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+
+-->
+</style></head>
+<body>
+
+
+<table width="770px" border="1" cellpadding=" 0" cellspacing="0" align="center" bgcolor="#aba476">
+    <tbody><tr>
+      <th scope="col"><div id="masthead"></div>
+	  <table width="98%" border="0" align="center" cellpadding=" 0" cellspacing="0" bgcolor="#777766">
+  <tbody><tr>
+    <th width="24%" scope="col"><div class="date_main_navigation">July 14, 2014  </div></th>
+    <th width="75%" scope="col"><div class="center_main_navigation_text"><link href="./ARC - Database Structure_files/arc_style_sheet3.css" rel="stylesheet" type="text/css">
+
+&nbsp;&nbsp;<a href="http://www.workforceinfodb.org/index.cfm">Home</a>&nbsp;&nbsp; |&nbsp;&nbsp; <a href="http://www.workforceinfodb.org/2aboutus.cfm">About Us</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="http://www.workforceinfodb.org/3help.cfm">Help Desk </a>&nbsp;&nbsp;|&nbsp; &nbsp;<a href="http://www.workforceinfodb.org/4contactus.cfm">Contact Us</a>
+
+</div></th>
+    <!--end tag for main_navigation_table --></tr></tbody></table>
+<table width="98%" border="0" align="center" cellpadding=" 0" cellspacing="0" bgcolor="#ffffff">
+  <tbody><tr>
+    <th scope="col"><div id="Navigation_bar">
+	<link href="./ARC - Database Structure_files/arc_style_sheet3.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+<!--
+body {
+	background-image:url(Graphics/pagebackgroundimageC.gif);
+	background-repeat:repeat;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+p {font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+
+-->
+</style>
+
+
+<div class="navigation_search_by">&nbsp;Information for . . . </div>
+		  <div class="navigation_text_top"><a href="http://www.workforceinfodb.org/00newdba.cfm">New DBAs </a></div>
+		  <div class="navigation_text_top"><a href="http://www.workforceinfodb.org/01lmiprofessionals.cfm">LMI&nbsp;Professionals</a>	
+		  </div>
+		  <div class="navigation_blank">&nbsp;</div>
+		  <div class="navigation_topic">&nbsp;Choose a topic . . . </div>
+		  <div class="navigation_text"><a href="./ARC - Database Structure_files/ARC - Database Structure.htm">Database Structure</a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/9resources.cfm">Data Resources</a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/6coretables.cfm">Core Tables</a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/7guidelines.cfm">ETA Guidelines</a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/20employerdatabase.cfm">Employer Database</a></div>
+		 <div class="navigation_text"><a href="http://www.workforceinfodb.org/21RegionalDevelopment.cfm">Regional Development</a></div>
+		 <div class="navigation_text"><a href="http://www.workforceinfodb.org/8applications.cfm">User Applications</a></div>
+		 <div class="navigation_text"><a href="http://www.workforceinfodb.org/22ARC_Seminars.cfm">ARC Seminars</a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/11calendar.cfm">Calendar</a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/18Training.cfm">Training</a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/17publications.cfm">ARC Documents </a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/13faqs.cfm">FAQs</a></div>
+		  <div class="navigation_text"><a href="http://www.workforceinfodb.org/14rss.cfm">RSS</a></div>
+		  <div class="navigation_text_bottom"><a href="http://www.workforceinfodb.org/15links.cfm">Links </a>	</div>
+		  </div>
+		  
+
+
+<div id="level_2_center">
+<div class="breadcrumbs"><a href="http://www.workforceinfodb.org/index.cfm">&nbsp;Home &gt; </a> Database Structure </div> 
+</div>
+	  	 <div class="level_2_column1"> <div class="level_2_blue_banner">Database Structure </div>
+<span style="color:red;">--------- Current WID Structure -------</span>
+		      <div class="link_line_between">&nbsp;</div>
+	  	      <div><a href="http://www.workforceinfodb.org/pdf/WID_2-5_Release_Letter.pdf">Current WID Data Structure release letter</a> (Version 2.5) [PDF format]</div>
+	  	      <div class="link_line_between1">&nbsp;</div>
+	  	      <div><strong><a href="http://www.workforceinfodb.org/pdf/WID_2-5_errata_1.pdf">Current&nbsp;WID Data Structure Errata document</a></strong> (Version 2.5, released 6/17/11) [PDF   format]</div>
+	  	      <div class="link_line_between1">&nbsp;</div>
+	  	      <div><strong><a href="http://www.workforceinfodb.org/pdf/WID_2-5_standard.pdf">Current&nbsp;WID Data Structure</a></strong> (Version 2.5, revised 6/17/11) [PDF   format]</div>
+	  	       <div class="link_line_between1">&nbsp;</div>
+	  	      <div><a href="http://www.workforceinfodb.org/pdf/WID_2-5_annotated.pdf">Current WID Data Structure  annotated version</a>&nbsp;(Version   2.5, revised 6/17/11) [PDF format]</div>
+	  	      <div class="link_line_between1">&nbsp;</div>
+			     	      
+			   <div class="link_line_between1"><a href="http://www.workforceinfodb.org/pdf/Changes%20to%20WID%20from%202.4.1%20to%202.5.pdf">Quick Overview - Changes from 2.4.1 to 2.5 </a>
+			  </div>
+			   <div class="link_line_between1">&nbsp;</div> <span style="color:red;">---------- end Current WID Structure -----------</span><br>
+			   <a href="http://www.workforceinfodb.org/zipped/wid_2-4_release.zip" target="_blank">2.4 Version of the WID  Data Dictionary<span style="color:red;">Delete</span></a><br>
+The 2.4 version of the Workforce Information Database [ALMIS Version 2.4, zipped]
+<div class="link_line_between1">&nbsp;</div>
+<a href="http://www.xwalkcenter.org/index.php/2012-10-16-17-50-25/wid-non-std" target="_blank">Non-standard Workforce Information Database Tables </a><br>
+Databases structured for use with the Workforce Information Database or tables awaiting further development and inclusion in the next release.  <span style="color:red;">Move this up to Current WID Structure fieldset/box</span>
+<div class="link_line_between1">&nbsp;</div>
+<a href="http://webdata.xwalkcenter.org/ftp/wfinfodb/structure/" target="_blank">Structure Document Archive</a><br>
+Earlier versions with corresponding documents
+<div class="link_line_between1">&nbsp;</div>
+<a href="http://www.workforceinfodb.org/Presentations/Database_Structure_(Module_3).ppt"><span style="color:red;">Brief Overview of the </span>Workforce Information Database Structure </a><br>
+Got a little free time?  Review the Workforce Information Database Structure with this brief PowerPoint </div>
+            
+	  	  <div class="level_2_column2">
+	  	  <div class="level_2_tan_banner">Recent Postings</div>
+		  
+		  <div class="level_2_column2_text">
+		  <div class="link_line_between">&nbsp;</div>
+		  <a href="http://www.workforceinfodb.org/pdf/WID_2-5_standard.pdf">2.5 WID Data Structure</a>
+		  <div class="link_line_between">&nbsp;</div>
+		 <a href="http://www.workforceinfodb.org/pdf/Changes%20to%20WID%20from%202.4.1%20to%202.5.pdf">Changes from 2.4.1 to 2.5</a><br>
+		  <div class="link_line_between">&nbsp;</div>
+		  <p>&nbsp;</p>
+		  </div>
+	  	  </div>
+		    
+	  	  
+	         
+	        <p>&nbsp;</p>
+	      
+	        
+	  	 
+	  	  <!--end tag for white table --></th>
+  </tr>
+</tbody></table>
+<img src="./ARC - Database Structure_files/top_bottom_shim.jpg" alt="shim">
+	  
+	  <!--end tag for tan table --></th></tr></tbody></table>
+
+<div id="footer"><link href="./ARC - Database Structure_files/arc_style_sheet3.css" rel="stylesheet" type="text/css">
+
+<a href="http://www.workforceinfodb.org/index.cfm">Home</a> | <a href="http://www.workforceinfodb.org/16sitemap.cfm">Site Map </a>| <a href="http://www.workforceinfodb.org/privacy_statement.cfm">Privacy Statement </a>| <a href="mailto:ncsc.arc@iowa.gov"> Feedback</a> |<a href="http://www.workforceinfodb.org/bestviewing.cfm"> Best Viewing </a>| Copyright © Analyst Resource Center </div>
+
+
+
+
+</body></html>
