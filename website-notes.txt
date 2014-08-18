@@ -61,6 +61,31 @@ User Applications page
 
 //Fix URLs for Florida, Louisiana, Nebraska, Puerto Rico, Tennessee, Texas (see attached xls file)//
 
+=======================
+ETA Guidelines page
 
+//Remove all but the current TEGL; maybe move old ones to NCSC Archive?//
+
+=======================
+Regional Economic Development page
+
+
+=======================
+Calendar page
+//Fix link to LMI Institute (Should be http://www.lmiontheweb.org/)//
+
+=======================
+Training page
+//Show topics covered under Courses and Seminars. Move e-learning resources to wiki for revision, updating//
+
+=======================
+ARC Documents page 
+//Need a link to the current structure documents also, in case people look for them there//
+
+=======================
+FAQs page
+//Needs to be updated. Might be good to have questions listed at top of page and linked to anchor tags in the page.
+Remove Workforce ATM link
+//
 
 
