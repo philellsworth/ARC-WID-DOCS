@@ -1,0 +1,66 @@
+=====================
+Sitewide
+//Change link color to something more distinct, maybe a lighter gray? Red?//
+
+=====================
+Data Resources page
+
+Data Update Calendar 
+Schedule of data updates from the National Crosswalk Service Center
+//Link this to NCSC data update calendar//
+ 
+Over 4,000 Files of Data //Change to "Data Files and Database Structure"  //
+General, national, state, and other types of files available through the National Crosswalk Service Center
+ 
+Workforce Information Database 
+Tables Suggested Sources //add "Wiki" // 
+This website contains suggested sources of content for many of the Workforce Information Database data tables. 
+ 
+Automate! 
+How to automate data updates from NCSC using Data Transformation Services. 
+//Out of date; Move this to the wiki to be updated//
+
+Data Transformation Services	
+An overview
+//Out of date; Move this to the wiki to be updated//
+ 
+I Need Data! //Contact form would work better; mailto links don't work for many people//
+Submit a request with details on what you need and how to contact you.
+ 
+Review the basics of working with data and the Workforce Information Database, including:
+ 
+Collection  |  Loading  |  Validation and Security 
+//Needs revisions; references FoxPro and ALMIS//
+
+OES and OEP Recommendation //Needs more explanation//
+ARC's recommendation for OES short titles and the titles for the OEP matrix code associated with the pseudo-OES codes.
+ 
+Geographical Codes //Doesn't need to be a PDF//
+Information on selection of area identifiers in the Workforce Information Database.
+ 
+Current Data Dictionary //Should direct to current content on NCSC site//
+Download the current version of the database [ALMIS Version 2.4, zipped]
+ 
+Non-standard Workforce Information Database Tables 
+Databases structured for use with the Workforce Information Database or tables awaiting further development and inclusion in the next release.
+//Should direct to current structure page on NCSC//
+
+//Add link to ETA Guidelines page//
+=================
+Database Structure page
+
+//Put current data structure items (release letter, errata document, structure document, annotated version) inside fieldset with "Current WID Structure" in the legend or heading//
+
+//Delete links to 2.4 version (they are on Archive page -- http://webdata.xwalkcenter.org/ftp/wfinfodb/structure/)//
+
+Workforce Information Database Structure
+//Move this powerpoint to the wiki for revision//
+=======================
+User Applications page
+//Change name of page to "State WID Applications"//
+
+//Fix URLs for Florida, Louisiana, Nebraska, Puerto Rico, Tennessee, Texas (see attached xls file)//
+
+
+
+
