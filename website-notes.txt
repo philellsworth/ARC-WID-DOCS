@@ -1,3 +1,5 @@
+((This document updated at https://github.com/philellsworth/ARC-WID-DOCS/blob/master/website-notes.txt))
+
 =====================
 Sitewide
 //Change link color to something more distinct, maybe a lighter gray? Red?//
@@ -87,5 +89,3 @@ FAQs page
 //Needs to be updated. Might be good to have questions listed at top of page and linked to anchor tags in the page.
 Remove Workforce ATM link
 //
-
-
