@@ -1,0 +1,55 @@
+State	Existing	Works	Alternate	Notes
+Alabama	http://www2.dir.state.al.us/	Y		
+Alaska	http://www.laborstats.alaska.gov	Y		
+Arizona	http://www.workforce.az.gov/	Y		
+Arkansas	http://www.discoverarkansas.net/	Y		
+California	http://www.labormarketinfo.edd.ca.gov/	Y		
+Colorado	http://www.coworkforce.com/lmigateway	Y		
+Connecticut	http://www1.ctdol.state.ct.us/lmi/	Y		
+Delaware	http://elmer.delawareworks.com/	Y		
+District of Columbia	http://www.dcnetworks.org/	Y		
+Florida	 javascript:openScript('level 2/8_1statepopup.cfm?stfips=12',250,300)	N	http://www.floridajobs.org/labor-market-information	Error thrown by arc website
+Georgia	http://explorer.dol.state.ga.us/	Y		
+Hawaii	http://www.hiwi.org/	Y		
+Idaho	http://lmi.idaho.gov//	Y		
+Illinois	http://www.ilworkinfo.com/	Y		
+Indiana	http://www.hoosierdata.in.gov/	Y		
+Iowa	http://iwin.iwd.state.ia.us/iowa	Y		
+Kansas	http://www.dol.ks.gov/LMIS/Default.aspx	Y		
+Kentucky	https://kylmi.ky.gov/	Y		
+Louisiana	http://www.dol.ks.gov/LMIS/Default.aspx	N	http://www.laworks.net/labormarketinfo/lmi_mainmenu.asp	Currently linked to KS
+Maine	http://www.maine.gov/labor/cwri/index.html	Y		
+Maryland	http://www.dllr.state.md.us/lmi/	Y		
+Massachusetts	http://lmi2.detma.org/Lmi/LMIDataProg.asp	Y		
+Michigan	http://www.milmi.org/	Y		
+Minnesota	http://mn.gov/deed/	Y		
+Mississippi	http://www.mdes.ms.gov/	Y		
+Missouri	http://www.missouriEconomy.org	Y		
+Montana	http://ourfactsyourfuture.org/	Y		
+Nebraska	http://www.dol.state.ne.us/nstars/webnstars/	N	http://neworks.nebraska.gov/analyzer/default.asp	
+Nevada	http://www.nevadaworkforce.com/	Y		
+New Hampshire	http://nhetwork.nhes.state.nh.us/nhetwork	Y		
+New Jersey	http://lwd.state.nj.us/labor/lpa/LMI_index.html	Y		
+New Mexico	https://www.jobs.state.nm.us/analyzer/default.asp	Y		
+New York	http://labor.ny.gov/stats/index.shtm	Y		
+North Carolina	http://esesc23.esc.state.nc.us/d4/	Y		
+North Dakota	http://www.ndworkforceintelligence.com/	Y		
+Ohio	http://ohiolmi.com/	Y		
+Oklahoma	http://www.ok.gov/oesc_web/Services/Find_Labor_Market_Statistics/index.html	Y		
+Oregon	http://www.qualityinfo.org/olmisj/OlmisZine	Y		
+Pennsylvania	http://www.paworkstats.state.pa.us/	Y		
+Puerto Rico	http://www.dtrh.gobierno.pr/osho.asp	N	http://www.trabajo.pr.gov/	
+Rhode Island	http://www.dlt.ri.gov/lmi/	Y		
+South Carolina	https://jobs.scworks.org/analyzer/default.asp	Y		
+South Dakota	http://www.dlr.sd.gov	Y		
+Tennessee	http://www.tn.gov/labor-wfd/labormarketinfo.html	N	http://www.tn.gov/labor-wfd/lmi.shtml	
+Texas	http://www.tracer2.com/	Y		
+United States	javascript:openScript('level 2/8_1statepopup.cfm?stfips=00',250,200)	N		Error being thrown by arc website.
+Utah	http://jobs.utah.gov/wi/	Y		
+Vermont	http://www.vtlmi.info/	Y		
+Virgin Islands	https://data.virginialmi.com/vosnet/Default.aspx	Y		
+Virginia	http://www.vidol.gov/occupational_outlook.php	Y		
+Washington	http://www.workforceexplorer.com/	Y		
+West Virginia	http://workforcewv.org/lmi/	Y		
+Wisconsin	http://worknet.wisconsin.gov/	Y		
+Wyoming	http://doe.state.wy.us/lmi/	Y		
