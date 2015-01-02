@@ -1,5 +1,11 @@
 ((This document updated at https://github.com/philellsworth/ARC-WID-DOCS/blob/master/website-notes.txt))
 
+Hi, Steve,
+These are the changes the Education & Communication group discussed:
+--------------------
+
+((Text document at https://github.com/philellsworth/ARC-WID-DOCS/blob/master/website-notes.txt))
+
 =====================
 Sitewide
 //Change link color to something more distinct, maybe a lighter gray? Red?//
@@ -61,7 +67,15 @@ Workforce Information Database Structure
 User Applications page
 //Change name of page to "State WID Applications"//
 
-//Fix URLs for Florida, Louisiana, Nebraska, Puerto Rico, Tennessee, Texas (see attached xls file)//
+//Fix URLs for Florida, Louisiana, Nebraska, Puerto Rico, Tennessee)//
+
+These are the correct URLs
+
+http://neworks.nebraska.gov/analyzer/default.asp
+http://www.floridajobs.org/labor-market-information
+http://www.laworks.net/labormarketinfo/lmi_mainmenu.asp
+http://www.tn.gov/labor-wfd/lmi.shtml
+http://www.trabajo.pr.gov/
 
 =======================
 ETA Guidelines page
@@ -71,7 +85,7 @@ ETA Guidelines page
 =======================
 Regional Economic Development page
 
-
+(I need to find my notes for this one ... we went over it, but I don't have them with the other notes for some reason.)
 =======================
 Calendar page
 //Fix link to LMI Institute (Should be http://www.lmiontheweb.org/)//
