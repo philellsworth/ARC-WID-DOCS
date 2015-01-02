@@ -85,7 +85,13 @@ ETA Guidelines page
 =======================
 Regional Economic Development page
 
-(I need to find my notes for this one ... we went over it, but I don't have them with the other notes for some reason.)
+//Change tile (in < head > section) to Regional Economic Development//
+//Change second sentence to: While the ongoing design, development, and maintenance of the Workforce Information Database via states' implentation of the WID through their respective Labor Market Information websites and applications is of primary concern, the ARC provides additional resources including operation of the National Crosswalk Service Center, operation of and implementation of the Employer Database Master Agreement (currently through the State of Iowa), training of state database administrators, and operation of the ARC website. If you would like more information on any of these products and services, we encourage you to contact us.//
+//"How can I access the WID?" should link to State WID Applications page (currently User Applications page)//
+//National Crosswalk Service Center link should go to NCSC home page//
+//Under the "What is the Workforce Information Database?" paragraph, change "See the Workforce Information Database in action!" to "See the Workforce Information Database in use on state Labor Market Information websites!"//
+//The NATIONAL CROSSWALK SERVICE CENTER paragraph needs a link to NCSC//
+//Add "Through a contract with a private vendor, " to the Employer Database paragraph.//
 =======================
 Calendar page
 //Fix link to LMI Institute (Should be http://www.lmiontheweb.org/)//
